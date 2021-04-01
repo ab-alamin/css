@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-family: Verdana,sans-serif;
+}
+.nav{
+	color: white;
+	background-color: #4CAF50;
+	text-align: center;
+	font-size: 18px;
+	padding: 8px 8px;
+
+}
+.container {
+    color: #000;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 16px 16px;
+    margin-bottom: 16px;
+}
+.container2{
+	text-align: center;
+	margin-bottom: 16px;
+}
+img{
+	width: 100%;
+	position: relative;
+	height: auto;
+	margin-bottom: -5px;
+	border: 0;
+}
+.quarter{
+	float: left;
+	width: 400px;
+	height: 150px;
+	margin: 2px;
+	margin-bottom: 2px
+}
